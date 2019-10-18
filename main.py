@@ -17,7 +17,7 @@ import time
 addr_from='zzcontinent@163.com'
 addr_to='zzcontinent@163.com'
 user_name='zzcontinent@163.com'
-user_passwd='zzz520020'
+user_passwd=''
 
 def get_ip_address():
     #先获取所有网络接口
